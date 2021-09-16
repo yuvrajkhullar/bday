@@ -222,13 +222,18 @@ body {
   margin: 10px 0 0;
 }
 
+.nine {
+  padding:-30%;
+  margin-top:-100px;
+  margin-bottom:100px;
+}
+
 .nine p {
   font-size: 1rem;
   font-weight: lighter;
-  margin-bottom: auto;
-  margin-top: auto;
-
+  text-align: center;
 }
+
 
 #replay {
   z-index: 3;
