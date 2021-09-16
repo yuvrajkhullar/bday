@@ -225,6 +225,9 @@ body {
 .nine p {
   font-size: 1rem;
   font-weight: lighter;
+  margin-bottom: auto;
+  margin-top: auto;
+
 }
 
 #replay {
